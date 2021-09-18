@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![Stats](https://github-readme-stats.vercel.app/api?username=Traeric&show_icons=true&theme=ocean_dark) 
-
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=Traeric&layout=compact&show_icons=true&theme=ocean_dark)  
 
 <!--
