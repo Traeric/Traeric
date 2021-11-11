@@ -1,4 +1,4 @@
-### Hi there 👋 欢迎访问<a href="https://traeric.github.io/" target="_blank">Awesome Slider Auth</a>官网 👋
+### Hi there 👋 欢迎访问[Awesome Slider Auth](https://traeric.github.io/)官网 👋
 ![Stats](https://github-readme-stats.vercel.app/api?username=Traeric&show_icons=true&theme=ocean_dark) 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=Traeric&layout=compact&show_icons=true&theme=ocean_dark)  
 
